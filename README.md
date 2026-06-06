@@ -124,13 +124,6 @@ Aplicativo para treinadores e atletas com:
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeomarLeandro\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeomarLeandro\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌎 Conecte-se comigo
 
